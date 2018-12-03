@@ -1,0 +1,44 @@
+/*
+*Sophie Marini
+*December 3, 2018
+* Girl Discover It
+*/
+
+/*The universal selector*/
+
+*{
+
+}
+
+/* Body attributes here */
+header {background-color: #ff6666; }
+body {
+background-color:#ffcccc;
+font-family: Arial, Helvetica, sans-serif;
+} 
+#logo { float:center;}
+#photo1 {width:300px; height:200px; float:right;}
+#photo2 {width:300px; height:200px;float:right;}
+h1 {
+    font-family:cursive;
+    font-size: 175%;
+    text-align:  left;  
+    text-decoration: underline;
+    font-weight: bold;
+    }
+
+h2 {
+    font-family:cursive;
+    font-size: 150%;
+    text-align:  left;  
+    text-decoration: underline;
+    font-weight: bold;
+    }
+    
+footer {
+    font-family: serif
+}
+a:hover {
+   color: fuchsia;
+    font-size: 150%;
+}
